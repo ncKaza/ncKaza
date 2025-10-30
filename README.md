@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nckaza" alt="nckaza" /></a> </p>
 
-- Je travaille actuellement sur une version **2 de mon Portoflio**
+- Je travaille actuellement sur une v2 de mon **Portoflio**
+
+- J'apprend actuellement **TailWindCSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
